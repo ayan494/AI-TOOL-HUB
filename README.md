@@ -53,15 +53,15 @@ BOTTOM FEATURES & FOOTER:
 - 4 feature blocks: Clean & Modern Design, SEO Friendly, Fast Loading, Fully Responsive
 - Complete footer with multi-column links, brand info, and social icons
 
-This project was built with [Lovable](https://lovable.dev).
+This project is **AI Tools Hub** — a modern AI Tools & Technology blog website.
 
-## Build with Lovable
+## About AI Tools Hub
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/5e985a80-69fa-4f95-bc2a-092e02bba0e7).
+AI Tools Hub is a production-quality, clean, fast and fully responsive AI tools and technology blog.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+- **Ship faster**: describe what you want to build and iterate quickly.
+- **Stay in sync**: every change is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back, ready for your next update.
 
 ## Development
 
